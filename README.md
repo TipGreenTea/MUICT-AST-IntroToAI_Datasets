@@ -3,8 +3,9 @@ This datasets are used for https://www.ict.mahidol.ac.th/event/introduction-to-a
 
 
 โครงการอบรมเชิงปฏิบัติการ “Introduction to Artificial Intelligence: Practical Machine Learning and Deep Learning with Python” (Online)
-Module1: Welcome to the course
-Module2: Get to know about Data
+
+* Module1: Welcome to the course
+* Module2: Get to know about Data
 Module3: Introduction to Machine Learning 101
 Module4: Regression Models
 Module5: Classification Models
